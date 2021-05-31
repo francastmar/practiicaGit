@@ -9,8 +9,5 @@ public class vehiculo {
 		this. numRuedas = numRuedas;
 		}
 
-	public void showinfo(){
-		System.out.println("soy un vehiculo");
-	}
 
 }
